@@ -1,4 +1,8 @@
 hello word
 asdfasdfasdfas
+<<<<<<< HEAD
 aaaaaaaaaaaa
 bbbbbbbbbb
+=======
+12312312313213
+>>>>>>> xin
